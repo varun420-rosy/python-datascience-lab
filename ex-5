@@ -1,0 +1,22 @@
+# Data creation (numerical values)
+a = 10
+b = 5
+
+print("Value of a:", a)
+print("Value of b:", b)
+
+# Arithmetic operations
+add = a + b
+sub = a - b
+mul = a * b
+div = a / b
+mod = a % b
+power = a ** b
+
+# Display results
+print("\nAddition:", add)
+print("Subtraction:", sub)
+print("Multiplication:", mul)
+print("Division:", div)
+print("Modulus:", mod)
+print("Power:", power)
