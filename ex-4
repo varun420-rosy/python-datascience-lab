@@ -1,0 +1,26 @@
+# String Manipulation using built-in methods
+text = "hello python"
+
+print("Original String:", text)
+
+print("Uppercase:", text.upper())
+print("Lowercase:", text.lower())
+print("Title Case:", text.title())
+print("Replace:", text.replace("python", "world"))
+print("Length of string:", len(text))
+
+# File Handling
+# Create a file and write data
+file = open("sample.txt", "w")
+file.write("Hello Selva\n")
+file.write("Welcome to Python File Handling\n")
+file.close()
+
+print("\nData written to file successfully.")
+
+# Read data from the file
+file = open("sample.txt", "r")
+content = file.read()
+print("\nFile Content:")
+print(content)
+file.close()
