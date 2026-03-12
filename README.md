@@ -91,3 +91,14 @@ ex-6
 <img width="1307" height="817" alt="Image" src="https://github.com/user-attachments/assets/3fb67fc7-5991-4761-ba4c-0f5d3c3279e8" />
 
 ex-7
+<img width="1198" height="394" alt="Image" src="https://github.com/user-attachments/assets/73b02d11-8e3c-408c-8ed2-e495f55a1e9a" />
+
+Test Case:
+
+data = [5, 15, 25, 35]
+
+Data: [5, 15, 25, 35]
+Mean: 20.0
+Variance: 125.0
+
+ex-8
