@@ -47,3 +47,23 @@ Sum: 30
 Student Name: Selva
 Student Mark: 75
 Result: Pass
+
+ex-4
+<img width="1307" height="470" alt="Image" src="https://github.com/user-attachments/assets/a83146d7-f3a0-452f-9bb7-e73db7b89b07" />
+
+Test Case:
+
+String = hello python
+
+Original String: hello python
+Uppercase: HELLO PYTHON
+Lowercase: hello python
+Title Case: Hello Python
+Replace: hello world
+Length of string: 12
+
+Data written to file successfully.
+
+File Content:
+Hello Selva
+Welcome to Python File Handling
