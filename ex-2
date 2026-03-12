@@ -1,0 +1,30 @@
+ # Create List, Tuple, Set, Dictionary
+my_list = [1, 2, 3]
+my_tuple = (4, 5, 6)
+my_set = {7, 8, 9}
+my_dict = {"a": 10, "b": 20}
+
+print("Original List:", my_list)
+print("Original Tuple:", my_tuple)
+print("Original Set:", my_set)
+print("Original Dictionary:", my_dict)
+
+# List operations
+my_list.append(4)        # append
+my_list.remove(2)        # remove
+print("\nList after operations:", my_list)
+print("Access List element:", my_list[1])
+
+# Tuple access (tuple immutable)
+print("\nAccess Tuple element:", my_tuple[0])
+
+# Set operations
+my_set.add(10)           # add
+my_set.remove(7)         # remove
+print("\nSet after operations:", my_set)
+
+# Dictionary operations
+my_dict["c"] = 30        # add
+del my_dict["a"]         # remove
+print("\nDictionary after operations:", my_dict)
+print("Access Dictionary element:", my_dict["b"])
