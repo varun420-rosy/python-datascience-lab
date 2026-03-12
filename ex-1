@@ -1,0 +1,13 @@
+# Get input from user
+num = int(input("Enter a number: "))
+
+# Conditional statement
+if num % 2 == 0:
+    print("Even number")
+else:
+    print("Odd number")
+
+# Looping statement
+print("Numbers from 1 to", num)
+for i in range(1, num + 1):
+    print(i, end=" ")
