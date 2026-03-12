@@ -1,0 +1,31 @@
+ # Function with argument and return value
+def add_numbers(a, b):
+    result = a + b
+    return result
+
+# Class with attributes and methods
+class Student:
+    def __init__(self, name, mark):
+        self.name = name
+        self.mark = mark
+
+    def display(self):
+        print("Student Name:", self.name)
+        print("Student Mark:", self.mark)
+
+    def grade(self):
+        if self.mark >= 50:
+            return "Pass"
+        else:
+            return "Fail"
+
+# Calling function
+sum_result = add_numbers(10, 20)
+print("Sum:", sum_result)
+
+# Creating object for class
+s1 = Student("Selva", 75)
+
+# Calling class methods
+s1.display()
+print("Result:", s1.grade())
