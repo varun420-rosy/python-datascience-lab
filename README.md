@@ -102,3 +102,15 @@ Mean: 20.0
 Variance: 125.0
 
 ex-8
+<img width="1198" height="611" alt="Image" src="https://github.com/user-attachments/assets/5b023556-c902-48c5-8f15-5c409a5231e0" />
+
+Test Case:
+
+x = [1,2,3]
+y = [2,4,6]
+
+Mean of x: 2.0
+Mean of y: 4.0
+Correlation coefficient: 1.0
+
+ex-9
