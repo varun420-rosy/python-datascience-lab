@@ -1,0 +1,13 @@
+# Data
+data = [10, 20, 30, 40]
+
+# Mean calculation
+mean = sum(data) / len(data)
+
+# Variance calculation
+var = sum((x - mean)**2 for x in data) / len(data)
+
+# Display results
+print("Data:", data)
+print("Mean:", mean)
+print("Variance:", var)
