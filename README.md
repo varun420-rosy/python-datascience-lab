@@ -34,4 +34,16 @@ Access Dictionary element: 20
 
 
 ex-3
+<img width="1307" height="470" alt="Image" src="https://github.com/user-attachments/assets/de375858-f0e9-40df-b24f-1e550d3234e4" />
 
+Test Case:
+
+a = 10
+b = 20
+Student Name = Selva
+Mark = 75
+
+Sum: 30
+Student Name: Selva
+Student Mark: 75
+Result: Pass
