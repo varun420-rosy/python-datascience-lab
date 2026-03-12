@@ -86,3 +86,8 @@ Multiplication: 50
 Division: 2.0
 Modulus: 0
 Power: 100000
+
+ex-6
+<img width="1307" height="817" alt="Image" src="https://github.com/user-attachments/assets/3fb67fc7-5991-4761-ba4c-0f5d3c3279e8" />
+
+ex-7
