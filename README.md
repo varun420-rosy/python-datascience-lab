@@ -67,3 +67,22 @@ Data written to file successfully.
 File Content:
 Hello Selva
 Welcome to Python File Handling
+
+
+ex-5
+<img width="1307" height="559" alt="Image" src="https://github.com/user-attachments/assets/2b165aa6-53f8-412f-b8cf-48f295e5fe81" />
+
+Test Case:
+
+a = 10
+b = 5
+
+Value of a: 10
+Value of b: 5
+
+Addition: 15
+Subtraction: 5
+Multiplication: 50
+Division: 2.0
+Modulus: 0
+Power: 100000
